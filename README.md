@@ -93,6 +93,14 @@ cloudres/
 ├── requirements.txt
 └── README.md
 ```
+## Testing
+
+```bash
+pip install -r requirements-dev.txt
+pytest -v
+```
+
+Tests run automatically on every push via GitHub Actions (see `.github/workflows/tests.yml`), across Python 3.11/3.12 on both Ubuntu and Windows.
 
 ## Extending
 
