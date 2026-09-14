@@ -1,3 +1,5 @@
+[![Tests](https://github.com/Walkersavvy/system-resource-cli/actions/workflows/tests.yml/badge.svg)](https://github.com/Walkersavvy/system-resource-cli/actions/workflows/tests.yml)
+
 # cloudres
 
 A small CLI that does two things:
