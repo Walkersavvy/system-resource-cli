@@ -1,0 +1,11 @@
+{
+  "credentials_ref": "AWS_PROFILE_default",
+  "limits": {
+    "cpu_percent": 85,
+    "disk_percent": 95,
+    "mem_percent": 90
+  },
+  "provider": "aws",
+  "region": "us-east-1",
+  "tags": {}
+}
